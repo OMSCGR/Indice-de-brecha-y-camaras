@@ -1,0 +1,2 @@
+- 🎥 Cámaras EP y Ecu911 en el DMQ: cobertura actual y brecha por hexágono: https://omscgr.github.io/Indice-de-brecha-y-camaras/
+- 💻 Notebook: https://colab.research.google.com/drive/1J6Qs6TsoGa9lK0d9YZTNXTu5JPhDZrG6?usp=sharing
